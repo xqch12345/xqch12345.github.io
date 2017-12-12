@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>xqch.site/about/index.html</loc>
+    
+    <lastmod>2017-12-12T10:09:38.084Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>xqch.site/404.html</loc>
     
     <lastmod>2017-11-24T02:37:59.991Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>xqch.site/categories/index.html</loc>
     
     <lastmod>2017-11-24T02:33:51.878Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>xqch.site/about/index.html</loc>
-    
-    <lastmod>2017-11-24T01:57:28.821Z</lastmod>
     
   </url>
   
